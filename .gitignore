@@ -1,0 +1,5 @@
+/venv
+/.vscode
+.cache
+secret.py
+__pycache__/secret.cpython-37.pyc
